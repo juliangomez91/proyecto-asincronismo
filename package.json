@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d proyecto-asincronismo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliangomez91/proyecto-asincronismo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliangomez91/proyecto-asincronismo/issues"
+  },
+  "homepage": "https://github.com/juliangomez91/proyecto-asincronismo#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
